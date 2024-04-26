@@ -36,6 +36,20 @@ Step 8 : Lets add a conditional column for "Return".Whereever the value in retur
 ![image](https://github.com/Somya4746/Power-BI-Dashboard/assets/141270415/16743bb0-cb4d-45a8-b8e1-0a238851a71a)
 After that, click on "Close & Apply".
 
+Step 9 : Insert background wallpaper for the dashboard.The make slicers and cards.
+![image](https://github.com/Somya4746/Power-BI-Dashboard/assets/141270415/2c59b585-4e71-4ac0-a51f-d7ca6fb55f0b)
+
+Step 10 : Insert pie chart, donut chart and stacked column chart also.
+![image](https://github.com/Somya4746/Power-BI-Dashboard/assets/141270415/099190c0-514b-4ff9-9e47-0ca244bf2fc2)
+
+Step 11 : Finally make clustered bar charts and map.
+![image](https://github.com/Somya4746/Power-BI-Dashboard/assets/141270415/b2bf97da-a9dd-459b-8da0-585a0ac7b10f)
+
+
+
+
+
+
 
 
 
