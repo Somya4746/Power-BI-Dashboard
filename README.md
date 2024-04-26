@@ -8,7 +8,8 @@ Step 1 : Upload data in Power BI.
 
 Step 2 : Check if the data is loaded correctly or not.
 ![image](https://github.com/Somya4746/Power-BI-Dashboard/assets/141270415/e393175b-041b-4cc5-8b48-f7d158a6eeca)
-![image](https://github.com/Somya4746/Power-BI-Dashboard/assets/141270415/45ce5ccc-9a54-4c10-b4b7-0531889e752b)
+![image](https://github.com/Somya4746/Power-BI-Dashboard/assets/141270415/d4952cad-53f0-4aa9-99fe-c7827de79815)
+
 
 
 
