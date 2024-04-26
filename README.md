@@ -10,6 +10,12 @@ Step 2 : Check if the data is loaded correctly or not.
 ![image](https://github.com/Somya4746/Power-BI-Dashboard/assets/141270415/e393175b-041b-4cc5-8b48-f7d158a6eeca)
 ![image](https://github.com/Somya4746/Power-BI-Dashboard/assets/141270415/d4952cad-53f0-4aa9-99fe-c7827de79815)
 
+Step 3 : Open power query editor and choose the option of "Use First Row as Headers"
+![image](https://github.com/Somya4746/Power-BI-Dashboard/assets/141270415/99cfb603-3da6-4447-9876-0404320948e7)
+![image](https://github.com/Somya4746/Power-BI-Dashboard/assets/141270415/48195f52-df97-4674-9333-4fd7be6e87af)
+
+
+
 
 
 
