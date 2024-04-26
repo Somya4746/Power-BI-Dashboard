@@ -21,9 +21,12 @@
 ### Step 5:  In "Orders", let's create a column for delivery time.
 ![Step 5 - Create Delivery Time Column 1](https://github.com/Somya4746/Power-BI-Dashboard/assets/141270415/27cc3075-c936-4423-8faf-0671739be4fd)
 ![Step 5 - Create Delivery Time Column 2](https://github.com/Somya4746/Power-BI-Dashboard/assets/141270415/d8a5b4b6-088b-44f9-87c5-5e1077a624f0)
+
 The column has been inserted but we need to change its data type, we want delivery time in terms of days.
+
 ![Step 5 - Change Data Type](https://github.com/Somya4746/Power-BI-Dashboard/assets/141270415/dc3c9249-3be6-4900-8056-91aee4fb66b9)
 ![Step 5 - Close & Apply](https://github.com/Somya4746/Power-BI-Dashboard/assets/141270415/33bf2ff1-4923-426a-a349-8f05e2f47dcf)
+
 Important : Do not forget to click on "Close & Apply"
 
 ### Step 6: Click on "Model View" to check if our data is correctly transformed or not.
