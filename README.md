@@ -1,6 +1,6 @@
 # Power-BI-Dashboard
 
-[Link to Power BI Dashboard](https://drive.google.com/file/d/1wZNXPxYHewBi1vo_oGTKpAL8llqR_vu6/view?usp=sharing)
+[Link to Power BI Dashboard](https://drive.google.com/drive/folders/1l9qIAUJWpRHGGH7z-3yVw1ftupLC9fdF?usp=sharing)
 
 ## Steps to Create the Dashboard:
 
