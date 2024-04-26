@@ -14,6 +14,40 @@ Step 3 : Open power query editor and choose the option of "Use First Row as Head
 ![image](https://github.com/Somya4746/Power-BI-Dashboard/assets/141270415/99cfb603-3da6-4447-9876-0404320948e7)
 ![image](https://github.com/Somya4746/Power-BI-Dashboard/assets/141270415/48195f52-df97-4674-9333-4fd7be6e87af)
 
+Step 4 : After applying the changes, click on "Close & Apply".
+![image](https://github.com/Somya4746/Power-BI-Dashboard/assets/141270415/652341be-fe5d-4a35-ae49-81bade1fb86b)
+
+Step 5 : In "Orders", let's create a column for delivery time.
+![image](https://github.com/Somya4746/Power-BI-Dashboard/assets/141270415/27cc3075-c936-4423-8faf-0671739be4fd)
+![image](https://github.com/Somya4746/Power-BI-Dashboard/assets/141270415/d8a5b4b6-088b-44f9-87c5-5e1077a624f0)
+The column has been inserted but we need to change its data type, we want delivery time in terms of days.
+![image](https://github.com/Somya4746/Power-BI-Dashboard/assets/141270415/dc3c9249-3be6-4900-8056-91aee4fb66b9)
+![image](https://github.com/Somya4746/Power-BI-Dashboard/assets/141270415/33bf2ff1-4923-426a-a349-8f05e2f47dcf)
+Important : Do not forget to click on "Close & Apply"
+
+Step 6 : Click on "Model View" to check if our data is correctly transformed or not.
+![image](https://github.com/Somya4746/Power-BI-Dashboard/assets/141270415/15c67369-59fb-4a5e-b532-00612323335e)
+
+Step 7 : We will create another custom column to filter out year from the "Order Date".
+![image](https://github.com/Somya4746/Power-BI-Dashboard/assets/141270415/5c2f6669-8b4b-48cf-840f-e699d6234ee2)
+![image](https://github.com/Somya4746/Power-BI-Dashboard/assets/141270415/3be3a0f2-b209-4e77-af61-4c442c2d0da6)
+
+Step 8 : Lets add a conditional column for "Return".Whereever the value in returned is yes, we'll update 1 else 0.Doing this will help us in visualizing the return data.
+![image](https://github.com/Somya4746/Power-BI-Dashboard/assets/141270415/16743bb0-cb4d-45a8-b8e1-0a238851a71a)
+After that, click on "Close & Apply".
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
